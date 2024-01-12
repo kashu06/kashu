@@ -1,4 +1,4 @@
 # kashu
 my first git repositary
 <br>
-kashish choudhary
+kashish Choudhary
